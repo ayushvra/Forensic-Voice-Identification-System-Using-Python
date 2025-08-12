@@ -1,0 +1,2 @@
+# Forensic-Voice-Identification-System-Using-Python
+A Python-based forensic voice identification system designed to assist in criminal investigations and legal cases by analyzing and matching voice samples. It uses advanced audio processing techniques such as MFCC (Mel-Frequency Cepstral Coefficients) feature extraction, pitch detection, and spectral analysis to capture unique vocal characteristics.
